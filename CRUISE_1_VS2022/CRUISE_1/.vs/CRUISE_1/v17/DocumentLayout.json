@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\legom\\OneDrive\\Desktop\\Lockheed\\Preparations\\CRUISE_1_VS2022\\CRUISE_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C8E44901-3DF4-49C4-A631-67F119CEEB71}|CRUISE_1\\CRUISE_1.vcxproj|C:\\Users\\legom\\OneDrive\\Desktop\\Lockheed\\Preparations\\CRUISE_1_VS2022\\CRUISE_1\\CRUISE_1\\input.asc||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C8E44901-3DF4-49C4-A631-67F119CEEB71}|CRUISE_1\\CRUISE_1.vcxproj|solutionrelative:CRUISE_1\\input.asc||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8E44901-3DF4-49C4-A631-67F119CEEB71}|CRUISE_1\\CRUISE_1.vcxproj|C:\\Users\\legom\\OneDrive\\Desktop\\Lockheed\\Preparations\\CRUISE_1_VS2022\\CRUISE_1\\CRUISE_1\\documentation.asc||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C8E44901-3DF4-49C4-A631-67F119CEEB71}|CRUISE_1\\CRUISE_1.vcxproj|solutionrelative:CRUISE_1\\documentation.asc||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8E44901-3DF4-49C4-A631-67F119CEEB71}|CRUISE_1\\CRUISE_1.vcxproj|C:\\Users\\legom\\OneDrive\\Desktop\\Lockheed\\Preparations\\CRUISE_1_VS2022\\CRUISE_1\\CRUISE_1\\input_baseline.asc||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C8E44901-3DF4-49C4-A631-67F119CEEB71}|CRUISE_1\\CRUISE_1.vcxproj|solutionrelative:CRUISE_1\\input_baseline.asc||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8E44901-3DF4-49C4-A631-67F119CEEB71}|CRUISE_1\\CRUISE_1.vcxproj|C:\\Users\\legom\\OneDrive\\Desktop\\Lockheed\\Preparations\\CRUISE_1_VS2022\\CRUISE_1\\CRUISE_1\\execution.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C8E44901-3DF4-49C4-A631-67F119CEEB71}|CRUISE_1\\CRUISE_1.vcxproj|solutionrelative:CRUISE_1\\execution.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "input_baseline.asc",
+              "DocumentMoniker": "C:\\Users\\legom\\OneDrive\\Desktop\\Lockheed\\Preparations\\CRUISE_1_VS2022\\CRUISE_1\\CRUISE_1\\input_baseline.asc",
+              "RelativeDocumentMoniker": "CRUISE_1\\input_baseline.asc",
+              "ToolTip": "C:\\Users\\legom\\OneDrive\\Desktop\\Lockheed\\Preparations\\CRUISE_1_VS2022\\CRUISE_1\\CRUISE_1\\input_baseline.asc",
+              "RelativeToolTip": "CRUISE_1\\input_baseline.asc",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-03-31T06:48:38.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "execution.cpp",
+              "DocumentMoniker": "C:\\Users\\legom\\OneDrive\\Desktop\\Lockheed\\Preparations\\CRUISE_1_VS2022\\CRUISE_1\\CRUISE_1\\execution.cpp",
+              "RelativeDocumentMoniker": "CRUISE_1\\execution.cpp",
+              "ToolTip": "C:\\Users\\legom\\OneDrive\\Desktop\\Lockheed\\Preparations\\CRUISE_1_VS2022\\CRUISE_1\\CRUISE_1\\execution.cpp",
+              "RelativeToolTip": "CRUISE_1\\execution.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-31T06:45:40.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "input.asc",
+              "DocumentMoniker": "C:\\Users\\legom\\OneDrive\\Desktop\\Lockheed\\Preparations\\CRUISE_1_VS2022\\CRUISE_1\\CRUISE_1\\input.asc",
+              "RelativeDocumentMoniker": "CRUISE_1\\input.asc",
+              "ToolTip": "C:\\Users\\legom\\OneDrive\\Desktop\\Lockheed\\Preparations\\CRUISE_1_VS2022\\CRUISE_1\\CRUISE_1\\input.asc",
+              "RelativeToolTip": "CRUISE_1\\input.asc",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-03-30T07:06:24.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "documentation.asc",
+              "DocumentMoniker": "C:\\Users\\legom\\OneDrive\\Desktop\\Lockheed\\Preparations\\CRUISE_1_VS2022\\CRUISE_1\\CRUISE_1\\documentation.asc",
+              "RelativeDocumentMoniker": "CRUISE_1\\documentation.asc",
+              "ToolTip": "C:\\Users\\legom\\OneDrive\\Desktop\\Lockheed\\Preparations\\CRUISE_1_VS2022\\CRUISE_1\\CRUISE_1\\documentation.asc",
+              "RelativeToolTip": "CRUISE_1\\documentation.asc",
+              "ViewState": "AgIAANsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-03-30T07:04:00.075Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

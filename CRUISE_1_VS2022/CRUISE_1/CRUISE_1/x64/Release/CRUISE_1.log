@@ -1,0 +1,16 @@
+﻿  class_functions.cpp
+  cruise_functions.cpp
+  cruise_modules.cpp
+  execution.cpp
+  global_functions.cpp
+  round3_modules.cpp
+  satellite_functions.cpp
+  satellite_modules.cpp
+  target_functions.cpp
+  target_modules.cpp
+  utility_functions.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 689 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  CRUISE_1.vcxproj -> C:\Users\legom\OneDrive\Desktop\Lockheed\Preparations\CRUISE_1_VS2022\CRUISE_1\x64\Release\CRUISE_1.exe
