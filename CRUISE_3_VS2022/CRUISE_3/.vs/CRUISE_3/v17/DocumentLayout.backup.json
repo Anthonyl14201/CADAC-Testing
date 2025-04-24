@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\legom\\OneDrive\\Desktop\\Lockheed\\Preparations\\CADAC-Testing\\CRUISE_3_VS2022\\CRUISE_3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{381EB775-0368-4B96-A724-A1448F963832}|CRUISE_3\\CRUISE_3.vcxproj|C:\\Users\\legom\\OneDrive\\Desktop\\Lockheed\\Preparations\\CADAC-Testing\\CRUISE_3_VS2022\\CRUISE_3\\CRUISE_3\\input.asc||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{381EB775-0368-4B96-A724-A1448F963832}|CRUISE_3\\CRUISE_3.vcxproj|solutionrelative:CRUISE_3\\input.asc||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{381EB775-0368-4B96-A724-A1448F963832}|CRUISE_3\\CRUISE_3.vcxproj|C:\\Users\\legom\\OneDrive\\Desktop\\Lockheed\\Preparations\\CADAC-Testing\\CRUISE_3_VS2022\\CRUISE_3\\CRUISE_3\\input3_2.asc||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{381EB775-0368-4B96-A724-A1448F963832}|CRUISE_3\\CRUISE_3.vcxproj|solutionrelative:CRUISE_3\\input3_2.asc||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{381EB775-0368-4B96-A724-A1448F963832}|CRUISE_3\\CRUISE_3.vcxproj|C:\\Users\\legom\\OneDrive\\Desktop\\Lockheed\\Preparations\\CADAC-Testing\\CRUISE_3_VS2022\\CRUISE_3\\CRUISE_3\\input3_1.asc||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{381EB775-0368-4B96-A724-A1448F963832}|CRUISE_3\\CRUISE_3.vcxproj|solutionrelative:CRUISE_3\\input3_1.asc||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "input3_1.asc",
+              "DocumentMoniker": "C:\\Users\\legom\\OneDrive\\Desktop\\Lockheed\\Preparations\\CADAC-Testing\\CRUISE_3_VS2022\\CRUISE_3\\CRUISE_3\\input3_1.asc",
+              "RelativeDocumentMoniker": "CRUISE_3\\input3_1.asc",
+              "ToolTip": "C:\\Users\\legom\\OneDrive\\Desktop\\Lockheed\\Preparations\\CADAC-Testing\\CRUISE_3_VS2022\\CRUISE_3\\CRUISE_3\\input3_1.asc",
+              "RelativeToolTip": "CRUISE_3\\input3_1.asc",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-15T23:43:06.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "input3_2.asc",
+              "DocumentMoniker": "C:\\Users\\legom\\OneDrive\\Desktop\\Lockheed\\Preparations\\CADAC-Testing\\CRUISE_3_VS2022\\CRUISE_3\\CRUISE_3\\input3_2.asc",
+              "RelativeDocumentMoniker": "CRUISE_3\\input3_2.asc",
+              "ToolTip": "C:\\Users\\legom\\OneDrive\\Desktop\\Lockheed\\Preparations\\CADAC-Testing\\CRUISE_3_VS2022\\CRUISE_3\\CRUISE_3\\input3_2.asc",
+              "RelativeToolTip": "CRUISE_3\\input3_2.asc",
+              "ViewState": "AgIAAAEAAAAAAAAAAADwvxsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-15T23:43:01.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "input.asc",
+              "DocumentMoniker": "C:\\Users\\legom\\OneDrive\\Desktop\\Lockheed\\Preparations\\CADAC-Testing\\CRUISE_3_VS2022\\CRUISE_3\\CRUISE_3\\input.asc",
+              "RelativeDocumentMoniker": "CRUISE_3\\input.asc",
+              "ToolTip": "C:\\Users\\legom\\OneDrive\\Desktop\\Lockheed\\Preparations\\CADAC-Testing\\CRUISE_3_VS2022\\CRUISE_3\\CRUISE_3\\input.asc",
+              "RelativeToolTip": "CRUISE_3\\input.asc",
+              "ViewState": "AgIAAAEAAAAAAAAAAADwvxsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-15T23:42:57.668Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

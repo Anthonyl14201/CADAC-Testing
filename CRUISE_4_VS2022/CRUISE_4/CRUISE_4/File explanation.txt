@@ -1,0 +1,26 @@
+
+
+
+>>>>>>>>>>>> FILE EXPLANATIONS >>>>>>>>>>>
+        (Display magnified to 110%)
+
+
+
+Hierarchy of vehicle classes and methods >>
+Physical conststants needed everywhere >>>>
+Supporting classes and methods >>>>>>>>>>>>
+Utility classes and methods >>>>>>>>>>>>>>>
+
+
+Constructor & destructor definitions >>>>>> 
+Cruise class method definitions >>>>>>>>>>>
+Cruise module-method definitions >>>>>>>>>>
+Initialization and execution of code>>>>>>>
+Suporting global function definitions >>>>>
+Round3 module-method definitions >>>>>>>>>>
+Satellite class method definitions >>>>>>>>
+Satellite module_method definitions >>>>>>>
+Target class method definitions >>>>>>>>>>>
+Target module_method definitions >>>>>>>>>>
+Utility class method definitions >>>>>>>>>> 
+

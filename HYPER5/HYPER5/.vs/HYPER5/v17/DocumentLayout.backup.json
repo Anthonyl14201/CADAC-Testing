@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\legom\\OneDrive\\Desktop\\Lockheed\\Preparations\\CADAC-Testing\\HYPER5\\HYPER5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FFB9D69E-7A46-413C-B18A-275FA61B7461}|HYPER5\\HYPER5.vcxproj|C:\\Users\\legom\\OneDrive\\Desktop\\Lockheed\\Preparations\\CADAC-Testing\\HYPER5\\HYPER5\\HYPER5\\input.asc||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{FFB9D69E-7A46-413C-B18A-275FA61B7461}|HYPER5\\HYPER5.vcxproj|solutionrelative:HYPER5\\input.asc||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "input.asc",
+              "DocumentMoniker": "C:\\Users\\legom\\OneDrive\\Desktop\\Lockheed\\Preparations\\CADAC-Testing\\HYPER5\\HYPER5\\HYPER5\\input.asc",
+              "RelativeDocumentMoniker": "HYPER5\\input.asc",
+              "ToolTip": "C:\\Users\\legom\\OneDrive\\Desktop\\Lockheed\\Preparations\\CADAC-Testing\\HYPER5\\HYPER5\\HYPER5\\input.asc",
+              "RelativeToolTip": "HYPER5\\input.asc",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-05T00:33:47.321Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\legom\\OneDrive\\Desktop\\Lockheed\\Preparations\\CADAC-Testing\\CRUISE_2_VS2022\\CRUISE_2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{96369BE7-7AB4-407A-9336-80EB27AE9A16}|CRUISE_2\\CRUISE_2.vcxproj|C:\\Users\\legom\\OneDrive\\Desktop\\Lockheed\\Preparations\\CADAC-Testing\\CRUISE_2_VS2022\\CRUISE_2\\CRUISE_2\\class_hierarchy.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{96369BE7-7AB4-407A-9336-80EB27AE9A16}|CRUISE_2\\CRUISE_2.vcxproj|solutionrelative:CRUISE_2\\class_hierarchy.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96369BE7-7AB4-407A-9336-80EB27AE9A16}|CRUISE_2\\CRUISE_2.vcxproj|C:\\Users\\legom\\OneDrive\\Desktop\\Lockheed\\Preparations\\CADAC-Testing\\CRUISE_2_VS2022\\CRUISE_2\\CRUISE_2\\global_constants.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{96369BE7-7AB4-407A-9336-80EB27AE9A16}|CRUISE_2\\CRUISE_2.vcxproj|solutionrelative:CRUISE_2\\global_constants.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96369BE7-7AB4-407A-9336-80EB27AE9A16}|CRUISE_2\\CRUISE_2.vcxproj|C:\\Users\\legom\\OneDrive\\Desktop\\Lockheed\\Preparations\\CADAC-Testing\\CRUISE_2_VS2022\\CRUISE_2\\CRUISE_2\\input.asc||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{96369BE7-7AB4-407A-9336-80EB27AE9A16}|CRUISE_2\\CRUISE_2.vcxproj|solutionrelative:CRUISE_2\\input.asc||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96369BE7-7AB4-407A-9336-80EB27AE9A16}|CRUISE_2\\CRUISE_2.vcxproj|C:\\Users\\legom\\OneDrive\\Desktop\\Lockheed\\Preparations\\CADAC-Testing\\CRUISE_2_VS2022\\CRUISE_2\\CRUISE_2\\input2_1.asc||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{96369BE7-7AB4-407A-9336-80EB27AE9A16}|CRUISE_2\\CRUISE_2.vcxproj|solutionrelative:CRUISE_2\\input2_1.asc||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96369BE7-7AB4-407A-9336-80EB27AE9A16}|CRUISE_2\\CRUISE_2.vcxproj|C:\\Users\\legom\\OneDrive\\Desktop\\Lockheed\\Preparations\\CADAC-Testing\\CRUISE_2_VS2022\\CRUISE_2\\CRUISE_2\\round3_modules.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{96369BE7-7AB4-407A-9336-80EB27AE9A16}|CRUISE_2\\CRUISE_2.vcxproj|solutionrelative:CRUISE_2\\round3_modules.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "class_hierarchy.hpp",
+              "DocumentMoniker": "C:\\Users\\legom\\OneDrive\\Desktop\\Lockheed\\Preparations\\CADAC-Testing\\CRUISE_2_VS2022\\CRUISE_2\\CRUISE_2\\class_hierarchy.hpp",
+              "RelativeDocumentMoniker": "CRUISE_2\\class_hierarchy.hpp",
+              "ToolTip": "C:\\Users\\legom\\OneDrive\\Desktop\\Lockheed\\Preparations\\CADAC-Testing\\CRUISE_2_VS2022\\CRUISE_2\\CRUISE_2\\class_hierarchy.hpp",
+              "RelativeToolTip": "CRUISE_2\\class_hierarchy.hpp",
+              "ViewState": "AgIAAPUBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-10T00:12:28.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "global_constants.hpp",
+              "DocumentMoniker": "C:\\Users\\legom\\OneDrive\\Desktop\\Lockheed\\Preparations\\CADAC-Testing\\CRUISE_2_VS2022\\CRUISE_2\\CRUISE_2\\global_constants.hpp",
+              "RelativeDocumentMoniker": "CRUISE_2\\global_constants.hpp",
+              "ToolTip": "C:\\Users\\legom\\OneDrive\\Desktop\\Lockheed\\Preparations\\CADAC-Testing\\CRUISE_2_VS2022\\CRUISE_2\\CRUISE_2\\global_constants.hpp",
+              "RelativeToolTip": "CRUISE_2\\global_constants.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-10T00:12:26.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "input.asc",
+              "DocumentMoniker": "C:\\Users\\legom\\OneDrive\\Desktop\\Lockheed\\Preparations\\CADAC-Testing\\CRUISE_2_VS2022\\CRUISE_2\\CRUISE_2\\input.asc",
+              "RelativeDocumentMoniker": "CRUISE_2\\input.asc",
+              "ToolTip": "C:\\Users\\legom\\OneDrive\\Desktop\\Lockheed\\Preparations\\CADAC-Testing\\CRUISE_2_VS2022\\CRUISE_2\\CRUISE_2\\input.asc",
+              "RelativeToolTip": "CRUISE_2\\input.asc",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-09T00:01:50.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "input2_1.asc",
+              "DocumentMoniker": "C:\\Users\\legom\\OneDrive\\Desktop\\Lockheed\\Preparations\\CADAC-Testing\\CRUISE_2_VS2022\\CRUISE_2\\CRUISE_2\\input2_1.asc",
+              "RelativeDocumentMoniker": "CRUISE_2\\input2_1.asc",
+              "ToolTip": "C:\\Users\\legom\\OneDrive\\Desktop\\Lockheed\\Preparations\\CADAC-Testing\\CRUISE_2_VS2022\\CRUISE_2\\CRUISE_2\\input2_1.asc",
+              "RelativeToolTip": "CRUISE_2\\input2_1.asc",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-08T23:59:29.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "round3_modules.cpp",
+              "DocumentMoniker": "C:\\Users\\legom\\OneDrive\\Desktop\\Lockheed\\Preparations\\CADAC-Testing\\CRUISE_2_VS2022\\CRUISE_2\\CRUISE_2\\round3_modules.cpp",
+              "RelativeDocumentMoniker": "CRUISE_2\\round3_modules.cpp",
+              "ToolTip": "C:\\Users\\legom\\OneDrive\\Desktop\\Lockheed\\Preparations\\CADAC-Testing\\CRUISE_2_VS2022\\CRUISE_2\\CRUISE_2\\round3_modules.cpp",
+              "RelativeToolTip": "CRUISE_2\\round3_modules.cpp",
+              "ViewState": "AgIAADIBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-08T23:33:20.675Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
